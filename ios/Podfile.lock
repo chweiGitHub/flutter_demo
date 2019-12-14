@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - shopping_cart (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - shopping_cart (from `.symlinks/plugins/shopping_cart/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  shopping_cart:
+    :path: ".symlinks/plugins/shopping_cart/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  shopping_cart: 038858f7b060eb27b5996f3e8a6fca8b6ad9fa81
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.8.4
